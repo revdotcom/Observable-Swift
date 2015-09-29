@@ -352,6 +352,8 @@
 		65263A941954BC5000B39269 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "Leszek Ślażyński";
 				TargetAttributes = {
